@@ -1,0 +1,103 @@
+"Now Italy has produced more than its share of great leaders and public servants. Machiavelli taught us how leaders can get away with evil deeds…And Dante showed us what happens when they get caught.
+
+"Giovanni has done something very different. Through his values, his dedication, his thoughtful work, Giovanni, his predecessor Peter Hustinx—and all of you—have set an example for the world. We are deeply grateful.
+
+"We need you to keep making progress—now more than ever. Because these are transformative times. Around the world, from Copenhagen to Chennai to Cupertino, new technologies are driving breakthroughs in humanity’s greatest common projects. From preventing and fighting disease…To curbing the effects of climate change…To ensuring every person has access to information and economic opportunity. 
+
+"At the same time, we see vividly—painfully—how technology can harm rather than help. Platforms and algorithms that promised to improve our lives can actually magnify our worst human tendencies. Rogue actors and even governments have taken advantage of user trust to deepen divisions, incite violence, and even undermine our shared sense of what is true and what is false. 
+
+"This crisis is real. It is not imagined, or exaggerated, or “crazy.” And those of us who believe in technology’s potential for good must not shrink from this moment.
+
+"Now, more than ever — as leaders of governments, as decision-makers in business, and as citizens — we must ask ourselves a fundamental question: What kind of world do we want to live in?
+
+"I'm here today because we hope to work with you as partners in answering this question.
+
+"At Apple, we are optimistic about technology’s awesome potential for good. But we know that it won’t happen on its own. Every day, we work to infuse the devices we make with the humanity that makes us. As I’ve said before, “Technology is capable of doing great things. But it doesn’t want to do great things. It doesn’t want anything. That part takes all of us.”
+
+"That’s why I believe that our missions are so closely aligned. As Giovanni puts it, “We must act to ensure that technology is designed and developed to serve humankind, and not the other way around.”
+
+"We at Apple believe that privacy is a fundamental human right. But we also recognize that not everyone sees things as we do. In a way, the desire to put profits over privacy is nothing new. 
+
+"As far back as 1890, future Supreme Court Justice Louis Brandeis published an article in the Harvard Law Review, making the case for a “Right to Privacy” in the United States. 
+
+"He warned: “Gossip is no longer the resource of the idle and of the vicious, but has become a trade.” 
+
+"Today that trade has exploded into a data industrial complex. Our own information, from the everyday to the deeply personal, is being weaponized against us with military efficiency. 
+
+"Every day, billions of dollars change hands, and countless decisions are made, on the basis of our likes and dislikes, our friends and families, Our relationships and conversations…Our wishes and fears…Our hopes and dreams. 
+
+"These scraps of data…each one harmless enough on its own…are carefully assembled, synthesized, traded, and sold. 
+
+"Taken to its extreme, this process creates an enduring digital profile and lets companies know you better than you may know yourself. Your profile is then run through algorithms that can serve up increasingly extreme content, pounding our harmless preferences into hardened convictions. If green is your favorite color, you may find yourself reading a lot of articles—or watching a lot of videos—about the insidious threat from people who like orange.
+
+"In the news, almost every day, we bear witness to the harmful, even deadly, effects of these narrowed world views.
+
+"We shouldn’t sugarcoat the consequences. This is surveillance. And these stockpiles of personal data serve only to enrich the companies that collect them. 
+
+"This should make us very uncomfortable. It should unsettle us. And it illustrates the importance of our shared work and the challenges still ahead of us. 
+
+"Fortunately, this year, you’ve shown the world that good policy and political will can come together to protect the rights of everyone. We should celebrate the transformative work of the European institutions tasked with the successful implementation of the GDPR. We also celebrate the new steps taken, not only here in Europe, but around the world. In Singapore, Japan, Brazil, New Zealand, and many more nations, regulators are asking tough questions and crafting effective reforms.
+
+"It is time for the rest of the world—including my home country—to follow your lead.
+
+"We at Apple are in full support of a comprehensive federal privacy law in the United States. There, and everywhere, it should be rooted in four essential rights: First, the right to have personal data minimized. Companies should challenge themselves to de-identify customer data—or not to collect it in the first place. Second, the right to knowledge. Users should always know what data is being collected and what it is being collected for. This is the only way to empower users to decide what collection is legitimate and what isn’t. Anything less is a sham. Third, the right to access. Companies should recognize that data belongs to users, and we should all make it easy for users to get a copy of…correct…and delete their personal data. And fourth, the right to security. Security is foundational to trust and all other privacy rights. 
+
+"Now, there are those who would prefer I hadn’t said all of that. Some oppose any form of privacy legislation. Others will endorse reform in public, and then resist and undermine it behind closed doors. 
+
+"They may say to you, ‘our companies will never achieve technology’s true potential if they are constrained with privacy regulation.’ But this notion isn’t just wrong, it is destructive. 
+
+"Technology’s potential is, and always must be, rooted in the faith people have in it…In the optimism and creativity that it stirs in the hearts of individuals…In its promise and capacity to make the world a better place.
+
+"It’s time to face facts. We will never achieve technology’s true potential without the full faith and confidence of the people who use it. 
+
+"At Apple, respect for privacy—and a healthy suspicion of authority—have always been in our bloodstream. Our first computers were built by misfits, tinkerers, and rebels—not in a laboratory or a board room, but in a suburban garage. We introduced the Macintosh with a famous TV ad channeling George Orwell's 1984—a warning of what can happen when technology becomes a tool of power and loses touch with humanity. 
+
+"And way back in 2010, Steve Jobs said in no uncertain terms: “Privacy means people know what they’re signing up for, in plain language, and repeatedly.”
+
+"It’s worth remembering the foresight and courage it took to make that statement. When we designed this device we knew it could put more personal data in your pocket than most of us keep in our homes. And there was enormous pressure on Steve and Apple to bend our values and to freely share this information. But we refused to compromise. In fact, we’ve only deepened our commitment in the decade since.
+
+"From hardware breakthroughs…that encrypt fingerprints and faces securely—and only—on your device...To simple and powerful notifications that make clear to every user precisely what they’re sharing and when they are sharing it. 
+
+"We aren’t absolutists, and we don’t claim to have all the answers. Instead, we always try to return to that simple question:  What kind of world do we want to live in. 
+
+"At every stage of the creative process, then and now, we engage in an open, honest, and robust ethical debate about the products we make and the impact they will have. That’s just a part of our culture. 
+
+"We don’t do it because we have to, we do it because we ought to. The values behind our products are as important to us as any feature. 
+
+"We understand that the dangers are real—from cyber-criminals to rogue nation states. We’re not willing to leave our users to fend for themselves. And, we've shown, we'll defend those principles when challenged. 
+
+"Those values…that commitment to thoughtful debate and transparency…they’re only going to get more important. As progress speeds up, these things should continue to ground us and connect us, first and foremost, to the people we serve. 
+
+"Artificial Intelligence is one area I think a lot about. Clearly, it's on the minds of many of my peers as well. 
+
+"At its core, this technology promises to learn from people individually to benefit us all. Yet advancing AI by collecting huge personal profiles is laziness, not efficiency. For Artificial Intelligence to be truly smart, it must respect human values, including privacy.
+
+"If we get this wrong, the dangers are profound. 
+
+"We can achieve both great Artificial Intelligence and great privacy standards. It’s not only a possibility, it is a responsibility.
+
+"In the pursuit of artificial intelligence, we should not sacrifice the humanity, creativity, and ingenuity that define our human intelligence. 
+
+"And at Apple, we never will. 
+
+"In the mid-19th Century, the great American writer Henry David Thoreau found himself so fed up with the pace and change of Industrial society that he moved to a cabin in the woods by Walden Pond. 
+
+"Call it the first digital cleanse. 
+
+"Yet even there, where he hoped to find a bit of peace, he could hear a distant clatter and whistle of a steam engine passing by. “We do not ride on the railroad,” he said. “It rides upon us.”
+
+"Those of us who are fortunate enough to work in technology have an enormous responsibility. 
+
+"It is not to please every grumpy Thoreau out there. That’s an unreasonable standard, and we’ll never meet it. 
+
+"We are responsible, however, for recognizing that the devices we make and the platforms we build have real…lasting…even permanent effects on the individuals and communities who use them. 
+
+"We must never stop asking ourselves…What kind of world do we want to live in? 
+
+"The answer to that question must not be an afterthought, it should be our primary concern. 
+
+"We at Apple can—and do—provide the very best to our users while treating their most personal data like the precious cargo that it is. And if we can do it, then everyone can do it. 
+
+"Fortunately, we have your example before us. 
+
+"Thank you for your work…For your commitment to the possibility of human-centered technology…And for your firm belief that our best days are still ahead of us. 
